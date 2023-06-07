@@ -1,0 +1,14 @@
+#a1{
+    border: 1px solid black;
+    height: 400px;
+    width: 300px;
+}
+#a2{
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+#a1:hover{
+    background-color: aqua;
+    transform: scaleX(1.5);
+}

@@ -1,0 +1,216 @@
+*{
+    margin: 0px;
+}
+body{
+    font-family: 'PT Sans', sans-serif;
+
+}
+#a1{
+    height: 40px;
+    width: 100%;
+    font-size: 16px;
+    background-color: #333;
+    color: rgb(51, 34, 34);
+    position: fixed;
+    top: 0px;
+}
+nav div{
+    display: inline;
+   
+}
+nav a{
+    /* border: 1px solid white; */
+    text-decoration: none;
+    padding: 15px 25px;
+    line-height: 41px;
+    color: #eeee;
+}
+nav a:hover{
+    background-color:rgb(51, 34, 34);;
+    padding: 18px 25px;
+}
+#a2{
+    background-image: url("/img/showcase.jpeg");
+    background-repeat: no-repeat;
+    height: 710px;
+    background-size: cover;
+    color: white;
+    font-size:x-large;
+    text-align: center;
+}
+#a16{
+    padding-top: 50px;
+    font-size: 20px;
+    padding-left: 60px;
+    padding-right: 60px;
+}
+#a3{
+    padding-top: 200px;
+}
+#a4{
+    padding-top: 50px;
+}
+
+#a5{
+    height: 1230px;
+    font-size: x-large;
+    color: white;
+    background-color: #252529;
+    text-align: center;
+    padding-top: 30px;  
+}
+#a6{
+    padding-top: 30px;
+}
+#a7{
+    padding-left: 140px;
+    padding-right: 140px;
+    padding-top: 40px;
+    line-height: 35px;
+    font-size: large;
+}
+#a9{
+    margin-top: 200px;
+    padding: 20px;
+    background-color:#B90415;
+    text-decoration: none;
+    color: white;
+    font-size: 17px;
+}
+#a10{
+    font-size: 15px;
+}
+#a11::after{
+   content:"  Music" ;
+}
+#a11{
+    margin-top: 25px;
+}
+#a12{
+    text-align: center;
+    height: 1335px;
+    background-color: #f4f4f4;
+}
+#a13{
+    padding-top: 90px;
+    font-size: xx-large;
+    color: #333333;
+}
+#a14{
+    font-size: 20px;
+    line-height: 35px;
+    margin-left: 70px;
+    margin-right: 75px;
+}
+#a15{
+    text-decoration: none;
+    padding: 22px;
+    background-color: #103063;
+    color: white;
+}
+#b1{
+    background-image: url("/img/section-bg.jpeg");
+    width: 100%;
+    height: 550px;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    color: white;
+   font-size: 20px;
+   text-align: center;
+  
+}
+#b2{
+     padding-top: 220px;
+}
+#b3{
+    padding-top: 40px;
+    padding-left: 30px;
+    padding-right: 30px;
+    line-height: 35px;
+}
+#b4{
+    background-color: #f4f4f4;
+    height: 480px;
+    font-family:16px 'PT Sans', sans-serif;
+}
+#b5{
+  margin-left: 0px;
+}
+#b6{
+    width: 610px;
+    margin-left: 80px;
+    display: inline-block;
+    line-height: 26px;
+    /* border: 1px solid orange; */
+}
+#d3{
+    /* border: 1px solid red; */
+    width: 40%;
+    margin-left: 70px;
+    display: inline-block;
+    height:300px;
+    margin-top: 30px;
+}
+#b8{
+    text-decoration: none;
+}
+#b8::after{
+    content: "  Redeem";
+   
+}
+#c1{
+    background-color: #252529;
+    height: 350px;
+     
+}
+.d>a{
+   text-decoration: none;
+ 
+}
+#d1{
+    padding-top: 50px;
+}
+li{
+    list-style-type: none;
+
+}
+#c3,#c4,#c5,#c6{
+    margin-top: 40px;
+    width: 231px;
+    display: inline-block;
+    height: 300px;
+    color: #ffff;
+    margin-left: 30px;
+}
+hr{
+    border-color: #4444;
+    border: 1px solid #4444;
+}
+ul li{
+    line-height: 30px;
+  
+}
+li>a{
+    text-decoration: none;
+    color: #cccccc;
+    font-size: small;
+}
+#c3{
+    margin-left: 60px;
+}
+#c6{
+    margin-right: 60px;
+}
+#e1{
+    background-color: #333333;
+    color: #ffffff;
+    height: 50px;
+    text-align: center;
+    line-height: 50px;
+}
+nav a{
+    font-size: medium;
+}
+#d2{
+    margin-left: 0px;
+}
